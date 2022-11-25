@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedyassineelhamzaoui&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ahmedyassineelhamzaoui" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedyassineelhamzaoui&show_icons=true&locale=en" alt="ahmedyassineelhamzaoui" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedyassineelhamzaoui&show_icons=true&theme=algolia&locale=en" alt="ahmedyassineelhamzaoui" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedyassineelhamzaoui&theme=algolia" alt="ahmedyassineelhamzaoui" /></p>

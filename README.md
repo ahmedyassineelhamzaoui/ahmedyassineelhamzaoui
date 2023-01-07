@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedyassineelhamzaoui" alt="ahmedyassineelhamzaoui" /></a> </p>
 
-- 🌱 I’m currently learning **oop of php**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **ahmed.yassin.elhamzaoui2019@gmail.com**
 

@@ -30,8 +30,8 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
 </a><a href="https://www.postman.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.com/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-</a><a href="https://swagger.io/" target="_blank" rel="noreferrer">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/swagger/swagger-plain-wordmark.svg" alt="Swagger" width="40" height="40"/>
+</a><a href="https://www.apollographql.com/" target="_blank" rel="noreferrer">
+<img src="https://www.apollographql.com/static/favicon-32x32.png" alt="Apolla GraphQL" width="40" height="40"/>
 </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedyassineelhamzaoui&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ahmedyassineelhamzaoui" /></p>

@@ -28,10 +28,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  width="40" height="40" />
 </a><a href="https://laravel.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-</a><a href="https://laravel.com/" target="_blank" rel="noreferrer">
+</a><a href="https://jquery.com/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="40" height="40" /></a>
-a href="https://laravel.com/" target="_blank" rel="noreferrer">
+<a href="https://www.atlassian.com/software/jira?_mid=84a966cc51ddee95b202d6bb16152c69&&aceid=&adposition=&adgroup=99178948734&campaign=9869842052&creative=431899923300&device=c&keyword=atlassian&matchtype=e&network=g&placement=&ds_kids=p53276214848&ds_e=GOOGLE&ds_eid=700000001530700&ds_e1=GOOGLE&utm_medium=paid-search&gclid=CjwKCAjw3ueiBhBmEiwA4BhspFfB3xISG5jkwq-s-OzxJLNHha6W0z0j9gVGn0K7mHJruj7Px3iBhxoCg10QAvD_BwE&gclsrc=aw.ds/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain-wordmark.svg" width="40" height="40" / >
+</a>
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </a>
 </p>
 
